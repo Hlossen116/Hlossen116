@@ -1,5 +1,5 @@
 # Wokwok Halo Guys
-
+#### Dayat Lossen ( dayat ) <br>
 Jangan Lihat di Sebelah kiri Guys [tutorial](https://www.instagram.com/ali.en_snack26)
   <img align="center" alt="Rafa-Js" src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png">
 
@@ -38,7 +38,7 @@ Semua disini, tempat kita berkembang.
   
   ##
  
-<div> 
+<div align=center> 
 <!--   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
   <a href="https://www.instagram.com/president_snack116" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <!--  	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> -->
