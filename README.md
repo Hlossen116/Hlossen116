@@ -1,7 +1,20 @@
-## Wokwok Halo Guys
+# Wokwok Halo Guys
 
 Jangan Lihat di Sebelah kiri Guys [tutorial](https://www.instagram.com/ali.en_snack26)
   <img align="center" alt="Rafa-Js" src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png">
+
+# Welcome To My Github <br>
+Tempat berkarya tanpa batasan. 
+Mari bersama kita berbagi ilmu,
+Saling membantu dan maju bertumbuh.
+
+Repositori penuh dengan kode,
+Kolaborasi tanpa sekat dan ragu.
+Dari pemula hingga yang berpengalaman,
+Semua disini, tempat kita berkembang.
+
+
+  
 
 <div style="display: inline_block"><br>
 <!--   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
